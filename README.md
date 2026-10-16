@@ -10,7 +10,7 @@ Agent: Yes! Shipping is free on orders over $50. [shipping.md]
 ## Quick start
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/ai-support-agent-lite.git
+git clone https://github.com/DigitalHub-afk/ai-support-agent-lite.git
 cd ai-support-agent-lite
 python3 -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
