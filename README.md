@@ -38,7 +38,7 @@ Requires Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/).
 | Commercial license for client work | MIT | Yes |
 | Extended README and customization guide | No | Yes |
 
-**Want the full version?** [Get the AI Support Agent Template](YOUR_STORE_URL).
+**Want the full version?** [Get the AI Support Agent Template](https://digitalhubb.lemonsqueezy.com/checkout/buy/7661fb6b-eb76-4a55-ae95-d4754936aba5).
 
 ## Limitations
 
